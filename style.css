@@ -1,6 +1,12 @@
 h1{
     font-family: Arial;
-    font-size: 28 px;
+    font-size: 28px;
     font-weight: 700;
-    text-aling: cente
+    text-aling: center;
+}
+
+p{
+    font-family: monospace;
+    font-size: 22px;
+    font-weight: 500;
 }
