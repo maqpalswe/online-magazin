@@ -1,22 +1,6 @@
-h1{
-    font-family: Arial;
-    font-size: 28px;
-    font-weight: 700;
-    text-aling: center;
-}
-
-p{
-    font-family: monospace;
-    font-size: 22px;
-    font-weight: 500;
-}
-
-button{
-    font-family: Arial;
-    font-size: 20px;
-    font-weight: 500px;
-    border: none;
-    border-radius: 1px;
-    background-color: green;
-    color: white;
+.selected{
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-right: 8px;
+    padding: 0 0 8 8;
 }
